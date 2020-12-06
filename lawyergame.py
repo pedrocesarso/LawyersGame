@@ -2,7 +2,7 @@ name = input("Qual o seu nome? ")
 print(name, "Bem-vindo(a) ao LawyersGame!")
 
 status = input(
-    "Mas primeiro, precisamos checar se você está pronto(a). Qual o nome dado à Suprema Corte brasileira? "
+    "Antes de começarmos, precisamos verificar se você está pronto(a). Qual o nome dado à Suprema Corte brasileira? "
 ).lower()
 health = 10
 
